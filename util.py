@@ -27,8 +27,6 @@ def setting(key):
     defaults = {
         "noteTypes": ["japanese"],
         "srcFields": ["Expression", "Kanji"],
-        "dstFields": ["Reading", "Reading"],
-        "furiganaSuffix": " (furigana)",
         "KanjiLearnedByDayjplpt5": 0,
         "KanjiLearnedByDayjplpt4": 0,
         "KanjiLearnedByDayjplpt3": 0,
